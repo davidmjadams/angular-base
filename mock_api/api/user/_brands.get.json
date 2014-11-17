@@ -1,0 +1,35 @@
+//! header: {"authorization": "Bearer abcdef123456"}
+{
+    "brands": [
+        {
+            "name": "Adidas",
+            "slug": "adidas",
+            "background_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg",
+            "logo_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg"
+        },
+        {
+            "name": "Reebok",
+            "slug": "reebok",
+            "background_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg",
+            "logo_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg"
+        },
+        {
+            "name": "Nike",
+            "slug": "nike",
+            "background_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg",
+            "logo_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg"
+        }
+    ]
+}
+
+//! header: {"authorization": "Bearer edcba654321"}
+{
+    "brands": [
+        {
+            "name": "Another one",
+            "slug": "another one",
+            "background_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg",
+            "logo_image": "http://dirtlemons.weebly.com/uploads/1/0/8/4/10845653/305946521.jpg"
+        }
+    ]
+}

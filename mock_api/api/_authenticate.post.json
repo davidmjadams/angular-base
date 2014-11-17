@@ -1,0 +1,9 @@
+//! body: {"email": "brand@example.com"}
+{
+    "auth_token": "abcdef123456"
+}
+
+//! body: {"email": "buyer@example.com"}
+{
+    "auth_token": "edcba654321"
+}

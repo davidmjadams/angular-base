@@ -1,0 +1,7 @@
+<h1 class="heading">All my things</h1>
+<ul class="task-list">
+    <li ng-repeat="product in productList.products">{{product.title}}</li>
+</ul>
+
+<button ng-click="productList.showOne()">Show one</button>
+<button ng-click="productList.showAll()">Show all</button>

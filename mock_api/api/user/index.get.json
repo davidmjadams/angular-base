@@ -1,0 +1,11 @@
+//! header: {"authorization": "Bearer abcdef123456"}
+{
+    "email": "brand@example.com",
+    "role": "brand_manager"
+}
+
+//! header: {"authorization": "Bearer edcba654321"}
+{
+    "email": "buyer@example.com",
+    "role": "retail_buyer"
+}
